@@ -7,3 +7,6 @@ git change tracked
 bulid new project and fix!
 sub issute
 new add
+
+git rebase
+
